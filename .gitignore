@@ -1,0 +1,6 @@
+.*.sw*
+*.log
+node_modules
+pouch-data
+log.txt
+config.json
